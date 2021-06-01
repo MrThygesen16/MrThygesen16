@@ -1,4 +1,4 @@
-# G'day, my name's Mike and I'm a Software Engineering Student.
+# G'day, I'm Mike - a Software Engineering Student
 ____
 
 
