@@ -1,4 +1,4 @@
-### G'day, I'm Mike - a Software Engineering Student
+### G'day, I'm Mike - I'm a Cloud & DevOps Engineer
 
 
 
