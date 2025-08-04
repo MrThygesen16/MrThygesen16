@@ -1,4 +1,4 @@
-### G'day, I'm Mike - I'm a Cloud & DevOps Engineer
+### G'day, I'm Mike - a Cloud & DevOps Engineer
 
 
 
